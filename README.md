@@ -1,9 +1,5 @@
 # Cinnecta - Processo Seletivo Cientista de Dados - Desafio Airbnb San Francisco
  
-![GitHub repo size](https://img.shields.io/github/repo-size/vivianerenizia/cinnecta_challenge?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/vivianerenizia/cinnecta_challenge?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/vivianerenizia/cinnecta_challengestyle=for-the-badge)
- 
 <img src="imagem.png" alt="Exemplo imagem">
  
 > Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
