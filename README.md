@@ -2,7 +2,7 @@
  
 ![GitHub repo size](https://img.shields.io/github/repo-size/vivianerenizia/cinnecta_challenge?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/vivianerenizia/cinnecta_challenge?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/vivianerenizia/cinnecta_challengestyle=for-the-badge)
  
 <img src="imagem.png" alt="Exemplo imagem">
  
