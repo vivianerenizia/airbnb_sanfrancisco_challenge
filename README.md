@@ -1,4 +1,4 @@
-# Cinnecta - Processo Seletivo Cientista de Dados - Desafio Airbnb San Francisco
+# Desafio Airbnb San Francisco
  
 <img src="imagem.png" alt="Exemplo imagem">
  
